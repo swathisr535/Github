@@ -1,0 +1,25 @@
+nav{
+  height:70px;
+  width:100%;
+  background-color: black;
+  color:white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+body{
+  background-image: url("https://www.mercedes-benz.co.in/content/dam/retail/india/q1march_tactical_campaign_glc.jpg/1743505135091.jpg?im=Crop,rect=(674,241,3139,1397);Resize=(2730)");
+  background-repeat: no-repeat;
+  background-size:100% 100vh ;
+}
+
+div{
+  height:500px;
+  width:100%;
+
+  background-image: url("https://www.mercedes-benz.co.in/content/dam/india/passengercars/new-homepage/7798202_DefiningClass_still_KV2_300SL_Gullwing_high_RGB.jpg/1740065330530.jpg?im=Crop,rect=(0,0,1080,1080);Resize=(1439)"),url("https://www.mercedes-benz.co.in/content/dam/retail/india/hponeweb_image_e-class.jpg/1743512345628.jpg?im=Crop,rect=(0,481,2200,1238);Resize=(2000)"),url("https://www.mercedes-benz.co.in/content/dam/india/passengercars/maintenance/service-packages-image1.jpg/1740065262547.jpg?im=Crop,rect=(0,71,764,430);Resize=(1280)");
+  background-repeat: no-repeat,no-repeat,no-repeat;
+  background-size: 35% 350px,35% 350px,35% 350px;
+  background-position: 100px 150px,1000px 150px;
+}
